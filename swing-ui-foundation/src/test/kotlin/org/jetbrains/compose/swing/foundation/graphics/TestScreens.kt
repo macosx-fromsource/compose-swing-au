@@ -26,7 +26,7 @@ import java.awt.image.RenderedImage
 import java.awt.image.VolatileImage
 import java.awt.image.renderable.RenderableImage
 import java.text.AttributedCharacterIterator
-import kotlin.math.ceil
+import kottant n.math.ceil
 
 /**
  * An accelerated [GraphicsConfiguration] at [scale] device pixels per unit, without a display: a recording made
